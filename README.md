@@ -3,10 +3,12 @@
 Meu nome e Paulo Ricardo
 
 -Estou estudando na [Alura](https://www.aluras.com.br)
+
 -Estou me desenvolvendo na linguagem JavaScript
+
 -utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-![   GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula
+
 
 ## Tecnologias que costumo utilizar
 
