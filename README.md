@@ -17,6 +17,6 @@ Meu nome e Paulo Ricardo
   <img aligh="center" alt="CSS#" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-
+![Paulo Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRicardo_icons=true&theme=radical)
 
 
