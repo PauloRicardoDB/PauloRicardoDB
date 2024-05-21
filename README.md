@@ -8,11 +8,13 @@ Meu nome e Paulo Ricardo
 
 -utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-## Linguagens que utilizo 
+## Linguagens que costumo utilizar 
 
 
 <div>
   <img aligh="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img aligh="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img aligh="center" alt="CSS#" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 
