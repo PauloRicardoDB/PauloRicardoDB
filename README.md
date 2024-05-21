@@ -4,7 +4,7 @@ Meu nome e Paulo Ricardo
 
 -Estou estudando na [Alura](https://www.aluras.com.br)
 
--Estou me desenvolvendo na linguagem JavaScript https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+-Estou me desenvolvendo na linguagem JavaScript <img aligh="center" alt="JavaScript" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 -utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
