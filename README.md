@@ -8,7 +8,7 @@ Meu nome e Paulo Ricardo
 
 -utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-## Linguagens que costumo utilizar 
+## Languages ​​I usually use
 
 
 <div>
